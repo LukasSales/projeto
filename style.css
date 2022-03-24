@@ -42,7 +42,7 @@ header > p {
 nav > a {
     width: 100%;
     padding: 10px;
-    margin: auto;
+    margin-bottom: 15px;
     margin-right: 10px;
     text-decoration: none;
     color: white;
