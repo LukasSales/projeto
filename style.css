@@ -39,6 +39,7 @@ header > p {
 
 nav {
     padding: 10px;
+    display: block;
 }
 
 nav > a {
